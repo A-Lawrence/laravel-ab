@@ -22,7 +22,7 @@ Usage
 Install using composer or which ever means you prefer
 
 ```
-composer install comocode/laravel-ab 
+composer require comocode/laravel-ab 
 ```
 
 then add the service provider to your app.php in config/ folder like so
